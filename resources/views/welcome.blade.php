@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Rocel Laravel</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -55,7 +55,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel has wonderful, thorough documentation covering every aspect of the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
+                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus tempora, dolorum at, quidem repellendus odit provident accusantium perferendis neque fugiat autem enim vitae, deserunt porro quo iste accusamus iure optio?
                                 </div>
                             </div>
                         </div>
@@ -68,7 +68,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laracasts offers thousands of video tutorials on Laravel, PHP, and JavaScript development. Check them out, see for yourself, and massively level up your development skills in the process.
+                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium esse quas voluptatem pariatur dignissimos excepturi accusamus cupiditate doloribus eligendi quae rem dolor ducimus quasi consectetur, aliquam nulla totam similique quo!
                                 </div>
                             </div>
                         </div>
@@ -81,7 +81,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel News is a community driven portal and newsletter aggregating all of the latest and most important news in the Laravel ecosystem, including new package releases and tutorials.
+                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos, enim. Est voluptate ut consequatur rem dolores odit veritatis, distinctio adipisci porro? Eius voluptatem modi dolorum. Saepe hic minima labore suscipit.
                                 </div>
                             </div>
                         </div>
